@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Money Tracker",
+  "description": "A modern, client-side application to track your daily expenses. Add transactions, view your spending history, and export your data to a CSV file for your records.",
+  "requestFramePermissions": []
+}
